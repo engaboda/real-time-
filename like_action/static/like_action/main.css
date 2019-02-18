@@ -1,0 +1,31 @@
+.img{
+    display: block;
+    left:50%;
+}
+.main{
+    display: block;
+    position: absolute;
+    left: 30%;
+}
+/* .img{ */
+    /* width:350px; */
+/* } */
+.like{
+    display: inline;
+}
+.like-div{
+    padding: 5px;
+}
+
+.head{
+    margin-left: 183px;
+}
+.val{
+    border: 0;
+    background: white;
+    width: 38px;
+    float: right;
+}
+.all-user{
+    float: right;
+}
